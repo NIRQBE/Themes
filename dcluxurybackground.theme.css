@@ -1,0 +1,38 @@
+/**
+ * @name DcLuxuryBackground
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/4JAVNQC.jpg');
+  --backgroundColor: #000000;
+  --backgroundSize: 100%;
+  --backgroundPosition: center left;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 1px;
+  --backgroundOpacity: 0.8;
+  --homeImage: url('https://i.imgur.com/QvWHm4p.gif');
+  --homeImageSize: 100%;
+  --themeColor1: #B68800;
+  --themeColor2: #FFC107;
+  --customFont: Martian Mono;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgba(0 0 0 /.5);
+  --columns: 1;
+  --guildgap: 10;
+  --aligndms: 0;
+}
+
+/* Any custom CSS below here */
+
+

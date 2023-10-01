@@ -1,0 +1,38 @@
+/**
+ * @name Futuristic Neon Racing
+ * @version 8.0
+ * @description A transparent Theme for discord, Stylish and Fresh!
+ * @author NIRQBE
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @twitch https://twitch.tv/NIRQBE
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/qXMyMYP.png');
+  --backgroundColor: #000000;
+  --backgroundSize: 100%;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 1;
+  --homeImage: url('https://imgur.com/eItxuAq.png');
+  --homeImageSize: cover;
+  --themeColor1: #8F53BC;
+  --themeColor2: #FF00E4;
+  --customFont: Young Serif;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgba(0 0 0 /.5);
+  --columns: 1;
+  --guildgap: 10;
+  --aligndms: 0;
+}
+
+/* Any custom CSS below here */
+
+
